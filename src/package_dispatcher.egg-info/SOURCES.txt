@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/package_dispatcher/__init__.py
+src/package_dispatcher/sorter.py
+src/package_dispatcher.egg-info/PKG-INFO
+src/package_dispatcher.egg-info/SOURCES.txt
+src/package_dispatcher.egg-info/dependency_links.txt
+src/package_dispatcher.egg-info/top_level.txt
+tests/test_sorter.py

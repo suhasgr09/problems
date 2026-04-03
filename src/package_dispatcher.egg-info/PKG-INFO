@@ -1,3 +1,11 @@
+Metadata-Version: 2.4
+Name: package-dispatcher
+Version: 0.1.0
+Summary: Sort packages into STANDARD, SPECIAL, or REJECTED stacks
+Author: Workspace User
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+
 # Package Dispatcher
 
 A small Python project that dispatches packages to one of three stacks:
